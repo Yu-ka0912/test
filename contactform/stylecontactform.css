@@ -1,0 +1,36 @@
+h1{
+    background-color:whitesmoke;
+    border-left:4px solid red;
+    padding-left:15px;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-size:25px;
+    width:70%;
+}
+form{
+        background-color: whitesmoke;
+        border:3px solid silver;
+        border-radius:10px;
+        padding:15px;
+        width:65%;
+}
+form div{
+            padding:10px;    
+}
+.text, textarea, .dropdown{
+                            border:1px solid silver;
+                            color:black;
+                            padding:5px;
+                            border-radius:3px;
+}
+
+
+.submit{
+            background-color: darkgray;
+            border:1px solid darkgray;
+            color: white;
+            padding:5px;
+            border-bottom:2px solid gray;
+            border-radius:3px;
+    
+}
