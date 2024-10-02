@@ -1,0 +1,30 @@
+http://localhost/phpmyadmin/index.php
+
+↑ザンプ用URL
+
+http://localhost/php_practice/index.php
+↑PHP確認用URL
+
+
+
+http://localhost/contactform/indexcontactform.html
+コンタクトフォーム
+
+
+http://localhost/diworks_keijiban/index.php
+掲示板
+
+
+
+
+
+https://github.com/account_verifications/confirm/87187f16-116b-4441-81b3-3561a93e22fb/28145575	
+Git hub
+
+Yukayuka0912
+
+https://github.com/Yu-ka0912/test
+
+
+
+cd　OneDrive\Desktop\workspace\workspace-aoyama
